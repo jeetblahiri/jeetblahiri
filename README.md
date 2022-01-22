@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeetblahiri
-- 👀 I’m interested in research 
-- 🌱 I’m currently learning data science  
-- 💞️ I’m looking to collaborate on projects
+- 👀 I’m interested in pursuing research in theoritical computer science that includes applications in Deep Learning Algorithms. 
+- 🌱 I’m currently enrolled in PGD in Data Science from IIIT-Bangalore and MS Data Science, from Liverpool John Moore's University.
+- 💞️ I’m looking forward to collaborate on several projects and add value to open source projects.
 - 📫 How to reach me: email: lahiri.jb@gmail.com; linkedin: jeetblahiri
 
 <!---
