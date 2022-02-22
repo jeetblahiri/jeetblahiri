@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeetblahiri
 - 👀 I’m interested in pursuing research in computer science that includes applications in Deep Learning Algorithms. 
 - 🌱 I’m currently pursuing PGD program in Data Science from IIIT-Bangalore and MS (Research) in Data Science (Specialization: Deep Learning), from Liverpool John Moore's University.
-- 💞️ I’m looking forward to collaborate on innovative projects related to brain-computer interfaces and add value to open source projects.
+- 💞️ I’m looking forward to collaborate on innovative projects, learn more and add value to open source projects.
 - 📫 How to reach me: E-mail: lahiri.jb@gmail.com; Linkedin: https://www.linkedin.com/in/jeetblahiri/
 
 <!---
