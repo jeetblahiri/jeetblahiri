@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeetblahiri
-- 👀 I’m interested to pursue research in something that matters to me (haven't decided on the field though!)
-- 🌱 I’m currently pursuing Ph.D. in School of Computing & Electrical Engg., IIT Mandi.
-- 💞️ I’m looking forward to collaborate on innovative projects, learn more and add value to open source projects.
+- 👀 I’m currently pursuing Ph.D. in School of Computing & Electrical Engg., IIT Mandi. 
+- 🌱 My area of research spans Biomedical Signal Processing for Neuropathology.
+- 💞️ I’m looking forward to collaborating on innovative ideas that can solve real-life problems. 
 - 📫 How to reach me: E-mail: d23146@students.iitmandi.ac.in; Linkedin: https://www.linkedin.com/in/jeetblahiri/
 
 <!---
