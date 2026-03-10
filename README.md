@@ -12,11 +12,9 @@ My work explores the intersection of neuroscience, signal processing, and artifi
 
 **Areas of Interest**
 - Biomedical Signal Processing for Neuropathology
-- Deep Learning for EEG
-- Topological Signal Processing
+- Deep learning
 - Information Theory
 - Nonlinear Dynamics
-- Quantum Signal Processing
 
 ---
 
