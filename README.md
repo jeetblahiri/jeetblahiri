@@ -1,4 +1,4 @@
-# Jeet Lahiri
+# Jeet B. Lahiri
 
 PhD Researcher  
 School of Computing & Electrical Engineering  
