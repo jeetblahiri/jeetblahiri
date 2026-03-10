@@ -8,7 +8,7 @@ Indian Institute of Technology Mandi
 
 ## Research
 
-My work explores the intersection of **neuroscience, signal processing, and artificial intelligence**, with a focus on extracting meaningful information from EEG for understanding and diagnosing brain disorders.
+My work explores the intersection of neuroscience, signal processing, and artificial intelligence, with a focus on extracting meaningful information from EEG for understanding and diagnosing brain disorders. I also keep looking for ways in which we can better emulate the learning mechanism by observing how the brain functions.
 
 **Areas of Interest**
 - Biomedical Signal Processing for Neuropathology
