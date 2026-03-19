@@ -1,6 +1,6 @@
 # Jeet B. Lahiri
 
-PhD Scholar
+PhD Scholar, 
 School of Computing & Electrical Engineering  
 Indian Institute of Technology Mandi
 
