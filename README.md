@@ -8,13 +8,13 @@ Indian Institute of Technology Mandi
 
 ---
 
-## 🧠 Research
+## Research
 
 My work explores the intersection of neuroscience, signal processing, and artificial intelligence, with a focus on extracting meaningful information from EEG for understanding and diagnosing brain disorders.  
 
 I am also interested in developing computational frameworks that emulate biological learning mechanisms by studying how the brain functions.
 
-### 🔍 Areas of Interest
+### Areas of Interest
 
 - Biomedical Signal Processing for Neuropathology  
 - Deep Learning  
@@ -23,7 +23,7 @@ I am also interested in developing computational frameworks that emulate biologi
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 - Information-theoretic limits of scalp EEG  
 - EEG-based diagnostic biomarkers  
