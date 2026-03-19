@@ -3,6 +3,7 @@
 PhD Scholar,
 School of Computing & Electrical Engineering  
 Indian Institute of Technology Mandi
+ORCID | Google Scholar
 
 ---
 
@@ -30,3 +31,4 @@ My work explores the intersection of neuroscience, signal processing, and artifi
 
 📧 d23146@students.iitmandi.ac.in  
 🔗 https://www.linkedin.com/in/jeetblahiri/
+🔗 https://www.jeetblahiri.com
