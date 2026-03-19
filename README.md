@@ -31,7 +31,7 @@ I am also interested in developing computational frameworks that emulate biologi
 
 ---
 
-## 📫 Contact
+## Contact
 
 - 📧 Email: [d23146@students.iitmandi.ac.in](mailto:d23146@students.iitmandi.ac.in)  
 - 🔗 LinkedIn: https://www.linkedin.com/in/jeetblahiri/  
